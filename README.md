@@ -6,6 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Categories
 - [Network tunnels](#network-tunnels)
+- [Firewall analysis](#firewall-analysis)
 - [Decentralized systems](#decentralized-systems)
 - [Steganography](#steganography)
 - [Deniable encryption](#deniable-encryption)
@@ -23,10 +24,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [govpn](https://github.com/stargrave/govpn) - virtual private network daemon, aimed to be reviewable, secure, DPI/censorship-resistant
 - [Dust](https://github.com/blanu/Dust) - A Polymorphic Engine for Filtering-Resistant Transport Protocols
 - [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) Tunneling Internet traffic over FB chat.
+- [chnroutes](https://github.com/fivesheep/chnroutes)- modifies the route table to route only censored ips through vpn
+- [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - Ipfs is a global, versioned, peer-to-peer filesystem.
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network 
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network
+- [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
+
+### Firewall analysis
+- [mongol](https://github.com/mothran/mongol) - A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China.
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
