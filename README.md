@@ -6,6 +6,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Categories
 - [Network tunnels](#network-tunnels)
+- [Decentralized systems](#decentralized-systems)
+- [Steganography](#steganography)
+- [Deniable encryption](#deniable-encryption)
 
 ### Network tunnels
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) Tor framework for implementing pluggable transports (anti-censorship network tunnels)
@@ -19,3 +22,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
 - [govpn](https://github.com/stargrave/govpn) - virtual private network daemon, aimed to be reviewable, secure, DPI/censorship-resistant
 - [Dust](https://github.com/blanu/Dust) - A Polymorphic Engine for Filtering-Resistant Transport Protocols
+- [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) Tunneling Internet traffic over FB chat.
+
+### Decentralized systems
+- [ipfs](https://github.com/ipfs/ipfs) - Ipfs is a global, versioned, peer-to-peer filesystem.
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network 
+
+### Steganography
+- [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
+
+### Deniable encryption
+- [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
+
+
