@@ -28,7 +28,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) Tunneling Internet traffic over FB chat.
 - [chnroutes](https://github.com/fivesheep/chnroutes)- modifies the route table to route only censored ips through vpn
 - [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
+- [iodine](https://github.com/yarrick/iodine) - This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.
 - [obfuscated-openssh](https://github.com/brl/obfuscated-openssh) - Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.
+- [goagent](https://github.com/phuslu/goagent) - code is missing now.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - Ipfs is a global, versioned, peer-to-peer filesystem.
