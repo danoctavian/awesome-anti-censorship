@@ -19,12 +19,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [FTE](https://github.com/kpdyer/fteproxy) - fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies
 - [stegotorus](https://github.com/SRI-CSL/stegotorus) - A Camouflage Proxy for the Tor Anonymity System
 - [lantern](https://github.com/getlantern/lantern) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
+- [uproxy](https://github.com/uProxy) - uProxy is a browser extension that lets friends route their connection to their Internet through each other's computers. It can help people with restricted or insecure access to the Internet get to the content they care about safely.
 - [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
 - [streisand](https://github.com/jlund/streisand) - single command set for a server running a wide variety of anti-censorship software
 - [obfs4](https://github.com/Yawning/obfs4) - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
 - [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
 - [govpn](https://github.com/stargrave/govpn) - virtual private network daemon, aimed to be reviewable, secure, DPI/censorship-resistant
+- [gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
 - [Dust](https://github.com/blanu/Dust) - A Polymorphic Engine for Filtering-Resistant Transport Protocols
+- [marionette](https://github.com/kpdyer/marionette/) - Marionette is a programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.
 - [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) Tunneling Internet traffic over FB chat.
 - [chnroutes](https://github.com/fivesheep/chnroutes)- modifies the route table to route only censored ips through vpn
 - [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
