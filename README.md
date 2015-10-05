@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Decentralized systems](#decentralized-systems)
 - [Steganography](#steganography)
 - [Deniable encryption](#deniable-encryption)
+- [Research papers](#research-papers)
 
 ### Network tunnels
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) Tor framework for implementing pluggable transports (anti-censorship network tunnels)
@@ -52,5 +53,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Deniable encryption
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
+
+### Research papers
+- [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
+- [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
+- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf )
 
 
