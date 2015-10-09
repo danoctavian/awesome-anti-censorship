@@ -1,6 +1,6 @@
 # Awesome anti-censorship
 
-> A curated list of open source tools for fighting Internet censorship.
+> A curated list of open source tools and readings for fighting Internet censorship.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
@@ -10,7 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Decentralized systems](#decentralized-systems)
 - [Steganography](#steganography)
 - [Deniable encryption](#deniable-encryption)
-- [Research papers](#research-papers)
+- [Articles and research papers](#articles-and-research-papers)
 
 ### Network tunnels
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) Tor framework for implementing pluggable transports (anti-censorship network tunnels)
@@ -56,7 +56,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Deniable encryption
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
 
-### Research papers
+### Articles and esearch papers
+- [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
+- [A closer look at the Great Firewall of China - Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
+- [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
+- [Towards a Censorship Analyser for Tor](http://www.cs.kau.se/philwint/pdf/foci2013.pdf)
 - [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
 - [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
 - [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf )
