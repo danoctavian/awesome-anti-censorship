@@ -40,7 +40,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [fwlite](https://github.com/v3aqb/fwlite) - A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)
 
 ### Decentralized systems
-- [ipfs](https://github.com/ipfs/ipfs) - Ipfs is a global, versioned, peer-to-peer filesystem.
+- [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
+- [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat))
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
@@ -49,9 +50,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [mongol](https://github.com/mothran/mongol) - A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China.
 - [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
 - [gfw_whitelist](https://github.com/n0wa11/gfw_whitelist) - A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
+- [antizapret](https://github.com/AntiZapret/antizapret) - List of Russian government's IP addresses.
+- [BlockCheck](https://github.com/ValdikSS/blockcheck) - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
+- [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) (applies to VeraCrypt as well) - hiding containers inside MP4 video files.
+- [PixelKnot](https://github.com/guardianproject/PixelKnot) - image steganography for Android.
 
 ### Deniable encryption
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
@@ -63,6 +68,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Towards a Censorship Analyser for Tor](http://www.cs.kau.se/philwint/pdf/foci2013.pdf)
 - [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
 - [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
-- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf )
+- [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf)
 
 
