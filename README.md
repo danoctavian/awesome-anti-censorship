@@ -5,15 +5,23 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Categories
+- [Privacy and anonimity](#privacy-and-anonimity)
 - [Network tunnels](#network-tunnels)
 - [Firewall analysis](#firewall-analysis)
 - [Decentralized systems](#decentralized-systems)
 - [Steganography](#steganography)
 - [Deniable encryption](#deniable-encryption)
+- [Misc](#misc)
 - [Articles and research papers](#articles-and-research-papers)
 
+### Privacy and anonimity
+- [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
+- [i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+- [vuvuzela](https://github.com/vuvuzela/vuvuzela) - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries. 
+- [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.  
+
 ### Network tunnels
-- [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) Tor framework for implementing pluggable transports (anti-censorship network tunnels)
+- [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) - Tor framework for implementing pluggable transports (anti-censorship network tunnels)
 - [flashproxy](https://crypto.stanford.edu/flashproxy/) -  miniature proxy that runs in a web browser, and reflects traffic to a Tor relay.
 - [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) - Tor pluggable transport that uses HTTP for carrying bytes and TLS for obfuscation.
 - [lantern](https://github.com/getlantern/lantern) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
@@ -38,6 +46,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [infranet](http://sourceforge.net/projects/infranet/) - Infranet is a system that attempts to circumvent web censorship by allowing clients to surreptitiously request sensitive content via cooperating Web servers distributed across the global Internet.
 - [goagent](https://github.com/phuslu/goagent) - code is missing now.
 - [fwlite](https://github.com/v3aqb/fwlite) - A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)
+- [code-talker-tunnel](https://crysp.uwaterloo.ca/software/CodeTalkerTunnel.html) - Code Talker Tunnel (previously called SkypeMorph) is a protocol camouflaging tool, designed to reshape traffic output of any censorship circumvention tool to look like Skype video calls
+- [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor’s traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
@@ -49,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Firewall analysis
 - [mongol](https://github.com/mothran/mongol) - A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China.
 - [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+- [https://github.com/gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - Great Firewall of China ban list
 - [gfw_whitelist](https://github.com/n0wa11/gfw_whitelist) - A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
 - [antizapret](https://github.com/AntiZapret/antizapret) - List of Russian government's IP addresses.
 - [BlockCheck](https://github.com/ValdikSS/blockcheck) - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
@@ -57,6 +68,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
 - [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) (applies to VeraCrypt as well) - hiding containers inside MP4 video files.
 - [PixelKnot](https://github.com/guardianproject/PixelKnot) - image steganography for Android.
+
+### Misc 
+- [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
 
 ### Deniable encryption
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
@@ -69,5 +83,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [stegotorus](http://freehaven.net/anonbib/cache/ccs2012-stegotorus.pdf)
 - [Format-Transforming Encryption](https://kpdyer.com/publications/ccs2013-fte.pdf)
 - [ScrambleSuit](http://arxiv.org/pdf/1305.3199.pdf)
-
 
