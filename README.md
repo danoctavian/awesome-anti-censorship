@@ -71,8 +71,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Misc 
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
-
-### Deniable encryption
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
 
 ### Articles and esearch papers
