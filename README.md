@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [gfw_whitelist](https://github.com/n0wa11/gfw_whitelist) - A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)
 - [antizapret](https://github.com/AntiZapret/antizapret) - List of Russian government's IP addresses.
 - [BlockCheck](https://github.com/ValdikSS/blockcheck) - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
+- [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
