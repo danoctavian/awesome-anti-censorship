@@ -5,7 +5,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Categories
-- [Privacy and anonimity](#privacy-and-anonimity)
+- [Privacy and anonymity](#privacy-and-anonymity)
 - [Network tunnels](#network-tunnels)
 - [Firewall analysis](#firewall-analysis)
 - [Decentralized systems](#decentralized-systems)
@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Misc](#misc)
 - [Articles and research papers](#articles-and-research-papers)
 
-### Privacy and anonimity
+### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
 - [i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 - [vuvuzela](https://github.com/vuvuzela/vuvuzela) - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries. 
