@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN.
 - [obfs4](https://github.com/Yawning/obfs4) - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
 - [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
-- [govpn](https://github.com/stargrave/govpn) - virtual private network daemon, aimed to be reviewable, secure, DPI/censorship-resistant
+- [govpn](http://git.cypherpunks.ru/cgit.cgi/govpn.git) - Simple secure VPN daemon, aimed to be reviewable, secure, DPI/censorship-resistant.
 - [gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
 - [Dust](https://github.com/blanu/Dust) - A Polymorphic Engine for Filtering-Resistant Transport Protocols
 - [marionette](https://github.com/kpdyer/marionette/) - Marionette is a programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.
