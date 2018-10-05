@@ -55,6 +55,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
 - [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat))
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network
+- [tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
+- [AKASHA](https://akasha.world/) - next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
 
