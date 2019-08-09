@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [streisand](https://github.com/jlund/streisand) - single command set for a server running a wide variety of anti-censorship software
 - [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN.
 - [obfs4](https://github.com/Yawning/obfs4) - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
+- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW
 - [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
 - [govpn](http://git.cypherpunks.ru/cgit.cgi/govpn.git) - Simple secure VPN daemon, aimed to be reviewable, secure, DPI/censorship-resistant.
 - [gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
