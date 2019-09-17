@@ -21,6 +21,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.  
 
 ### Network tunnels
+- [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
+- [v2ray](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) - Tor framework for implementing pluggable transports (anti-censorship network tunnels)
 - [obfsproxy with OpenVPN](https://community.openvpn.net/openvpn/wiki/TrafficObfuscation) - OpenVPN traffic obfuscation using obfsproxy 
 - [flashproxy](https://crypto.stanford.edu/flashproxy/) -  miniature proxy that runs in a web browser, and reflects traffic to a Tor relay.
@@ -30,7 +32,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [FTE](https://github.com/kpdyer/fteproxy) - fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies
 - [telex](https://github.com/ewust/telex) - involves placing anticensorship technology into the Internet's core network infrastructure, through cooperation from large ISPs. 
 - [uproxy](https://github.com/uProxy) - uProxy is a browser extension that lets friends route their connection to their Internet through each other's computers. It can help people with restricted or insecure access to the Internet get to the content they care about safely.
-- [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
 - [streisand](https://github.com/jlund/streisand) - single command set for a server running a wide variety of anti-censorship software
 - [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN.
 - [obfs4](https://github.com/Yawning/obfs4) - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
