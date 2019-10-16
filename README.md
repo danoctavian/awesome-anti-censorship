@@ -80,6 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Misc 
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
+- [OnionShare](https://onionshare.org/) - tool that lets you securely and anonymously share a file of any size (over TOR).
 
 ### Articles and research papers
 - [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
