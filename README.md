@@ -12,7 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Steganography](#steganography)
 - [Deniable encryption](#deniable-encryption)
 - [Misc](#misc)
-- [Related awesome lists)(#related-awesome-lists)
+- [Related awesome lists](#related-awesome-lists)
 - [Articles and research papers](#articles-and-research-papers)
 
 ### Privacy and anonymity
