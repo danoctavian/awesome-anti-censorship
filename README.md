@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Steganography](#steganography)
 - [Deniable encryption](#deniable-encryption)
 - [Misc](#misc)
+- [Related awesome lists)(#related-awesome-lists)
 - [Articles and research papers](#articles-and-research-papers)
 
 ### Privacy and anonymity
@@ -66,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
 
 ### Firewall analysis
+- [ooni-probe](https://github.com/ooni/probe) - OONI Probe network measurement tool for detecting internet censorship https://ooni.io
 - [mongol](https://github.com/mothran/mongol) - A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China.
 - [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
 - [https://github.com/gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - Great Firewall of China ban list
@@ -83,6 +85,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
 - [OnionShare](https://onionshare.org/) - tool that lets you securely and anonymously share a file of any size (over TOR).
+
+### Related awesome lists
+- [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
 
 ### Articles and research papers
 - [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
