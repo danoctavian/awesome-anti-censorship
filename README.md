@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [flashproxy](https://crypto.stanford.edu/flashproxy/) -  miniature proxy that runs in a web browser, and reflects traffic to a Tor relay.
 - [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) - Tor pluggable transport that uses HTTP for carrying bytes and TLS for obfuscation.
 - [lantern](https://github.com/getlantern/lantern) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
+- [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram
 - [scramblesuit](http://www.cs.kau.se/philwint/scramblesuit/) - Tor pluggable transport that uses look-like-nothing traffic as a cover channel
 - [FTE](https://github.com/kpdyer/fteproxy) - fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies
