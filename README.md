@@ -89,7 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
-- [awesome-privacy]()https://github.com/KevinColemanInc/awesome-privacy) Limiting personal data leaks on the internet
+- [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) Limiting personal data leaks on the internet
 
 ### Articles and research papers
 - [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
