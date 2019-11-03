@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) Limiting personal data leaks on the internet
 
 ### Articles and research papers
+- [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
 - [Learning more about the GFW's active probing system](https://blog.torproject.org/blog/learning-more-about-gfws-active-probing-system)
 - [A closer look at the Great Firewall of China - Tor Blog](https://blog.torproject.org/blog/closer-look-great-firewall-china)
 - [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
