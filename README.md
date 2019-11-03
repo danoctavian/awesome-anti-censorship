@@ -22,8 +22,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.  
 
 ### Network tunnels
-
-#### Production
 - [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
 - [v2ray](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) - Tor framework for implementing pluggable transports (anti-censorship network tunnels)
