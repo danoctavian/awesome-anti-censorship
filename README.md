@@ -22,6 +22,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.  
 
 ### Network tunnels
+
+#### Production
 - [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
 - [v2ray](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) - Tor framework for implementing pluggable transports (anti-censorship network tunnels)
@@ -40,7 +42,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [tunsafe](https://tunsafe.com/about) - TunSafe is a fast and modern layer 3 VPN tunnel that implements the new and modern WireGuard protocol that is becoming increasingly popular in the VPN community due to its security, speed, reliability and ease of use. TunSafe was developed with the goal to bring the power of the WireGuard-protocol to all the Windows users around the world and in March 2018 the first version was released.
 - [obfs4](https://github.com/Yawning/obfs4) - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW
-- [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
 - [govpn](http://git.cypherpunks.ru/cgit.cgi/govpn.git) - Simple secure VPN daemon, aimed to be reviewable, secure, DPI/censorship-resistant.
 - [gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
 - [Dust](https://github.com/blanu/Dust) - A Polymorphic Engine for Filtering-Resistant Transport Protocols
@@ -51,11 +52,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [iodine](https://github.com/yarrick/iodine) - This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.
 - [obfuscated-openssh](https://github.com/brl/obfuscated-openssh) - Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.
 - [infranet](http://sourceforge.net/projects/infranet/) - Infranet is a system that attempts to circumvent web censorship by allowing clients to surreptitiously request sensitive content via cooperating Web servers distributed across the global Internet.
-- [goagent](https://github.com/phuslu/goagent) - code is missing now.
 - [fwlite](https://github.com/v3aqb/fwlite) - A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)
 - [code-talker-tunnel](https://crysp.uwaterloo.ca/software/CodeTalkerTunnel.html) - Code Talker Tunnel (previously called SkypeMorph) is a protocol camouflaging tool, designed to reshape traffic output of any censorship circumvention tool to look like Skype video calls
 - [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor’s traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 - [go-packetflagon](https://github.com/BrassHornCommunications/go-packetflagon/) - A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.
+- [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
