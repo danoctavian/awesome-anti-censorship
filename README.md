@@ -54,7 +54,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [code-talker-tunnel](https://crysp.uwaterloo.ca/software/CodeTalkerTunnel.html) - Code Talker Tunnel (previously called SkypeMorph) is a protocol camouflaging tool, designed to reshape traffic output of any censorship circumvention tool to look like Skype video calls
 - [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor’s traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 - [go-packetflagon](https://github.com/BrassHornCommunications/go-packetflagon/) - A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.
-- [bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a bittorrent connection.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
