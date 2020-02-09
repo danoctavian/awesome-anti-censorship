@@ -31,15 +31,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [lantern](https://github.com/getlantern/lantern) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram
-- [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+- [streisand](https://github.com/jlund/streisand) - single command set for a server running a wide variety of anti-censorship software
+- [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN.
+- [tunsafe](https://tunsafe.com/about) - TunSafe is a fast and modern layer 3 VPN tunnel that implements the new and modern WireGuard protocol that is becoming increasingly popular in the VPN community due to its security, speed, reliability and ease of use. TunSafe was developed with the goal to bring the power of the WireGuard-protocol to all the Windows users around the world and in March 2018 the first version was released.
 - [scramblesuit](http://www.cs.kau.se/philwint/scramblesuit/) - Tor pluggable transport that uses look-like-nothing traffic as a cover channel
 - [FTE](https://github.com/kpdyer/fteproxy) - fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies
 - [telex](https://github.com/ewust/telex) - involves placing anticensorship technology into the Internet's core network infrastructure, through cooperation from large ISPs. 
 - [uproxy](https://github.com/uProxy) - uProxy is a browser extension that lets friends route their connection to their Internet through each other's computers. It can help people with restricted or insecure access to the Internet get to the content they care about safely.
-- [streisand](https://github.com/jlund/streisand) - single command set for a server running a wide variety of anti-censorship software
-- [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN.
-- [tunsafe](https://tunsafe.com/about) - TunSafe is a fast and modern layer 3 VPN tunnel that implements the new and modern WireGuard protocol that is becoming increasingly popular in the VPN community due to its security, speed, reliability and ease of use. TunSafe was developed with the goal to bring the power of the WireGuard-protocol to all the Windows users around the world and in March 2018 the first version was released.
 - [NaïveProxy](https://github.com/klzgrad/naiveproxy) - NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).
+- [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [obfs4](https://github.com/Yawning/obfs4) - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW
 - [govpn](http://git.cypherpunks.ru/cgit.cgi/govpn.git) - Simple secure VPN daemon, aimed to be reviewable, secure, DPI/censorship-resistant.
