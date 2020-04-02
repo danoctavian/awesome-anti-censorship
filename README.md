@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
 - [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) Limiting personal data leaks on the internet
+- [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) A curated list of links and tips, to protect privacy and improve security
 
 ### Articles and research papers
 - [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna)
