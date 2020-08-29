@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [BlockCheck](https://github.com/ValdikSS/blockcheck) - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
 - [DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.
+- [Geneva (Genetic Evasion)](https://censorship.ai/) - Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors.
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
