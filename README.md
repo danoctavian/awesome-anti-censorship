@@ -66,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [AKASHA](https://akasha.world/) - next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
+- [tox protocol](https://ru.wikipedia.org/wiki/Tox), [tox clients](https://wiki.tox.chat/clients)
 
 ### Firewall analysis
 - [ooni-probe](https://github.com/ooni/probe) - OONI Probe network measurement tool for detecting internet censorship https://ooni.io
@@ -83,6 +84,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
 - [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) (applies to VeraCrypt as well) - hiding containers inside MP4 video files.
 - [PixelKnot](https://github.com/guardianproject/PixelKnot) - image steganography for Android.
+- [Nanoboard](https://github.com/username1565/nanoboard) ([mirror](https://github.com/nanoboard/nanoboard/releases))
+- [DesuDesuTalk](https://github.com/desudesutalk/desudesutalk)
 
 ### Misc 
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
