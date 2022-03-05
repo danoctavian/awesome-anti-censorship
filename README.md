@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
 - [tox protocol](https://ru.wikipedia.org/wiki/Tox), [tox clients](https://wiki.tox.chat/clients)
+- [kevacoin](https://github.com/kevacoin-project) - [blogs on blockchain](https://kevacoin-project.github.io/keva_ws/)
 
 ### Firewall analysis
 - [ooni-probe](https://github.com/ooni/probe) - OONI Probe network measurement tool for detecting internet censorship https://ooni.io
