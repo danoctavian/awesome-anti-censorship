@@ -69,6 +69,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [tox protocol](https://ru.wikipedia.org/wiki/Tox), [tox clients](https://wiki.tox.chat/clients)
 - [kevacoin](https://github.com/kevacoin-project) - [blogs on blockchain](https://kevacoin-project.github.io/keva_ws/)
 - [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) , [ru wikipedia](https://ru.wikipedia.org/wiki/IRC) , public irc-server: https://webchat.freenode.net/
+- [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) - Distributed Hash Table, like this: `{"MessageHash":"PreviousMessageHashAndMessageText"}`,
+allow to exclude censorship, in the decentralized systems if DHT is saved and synchronized there. Example - [nanoboard](https://github.com/username1565/nanoboard/issues/17#issuecomment-1064685345)
 
 ### Firewall analysis
 - [ooni-probe](https://github.com/ooni/probe) - OONI Probe network measurement tool for detecting internet censorship https://ooni.io
