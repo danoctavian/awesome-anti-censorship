@@ -90,6 +90,7 @@ allow to exclude censorship, in the decentralized systems if DHT is saved and sy
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
 - [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) (applies to VeraCrypt as well) - hiding containers inside MP4 video files.
 - [PixelKnot](https://github.com/guardianproject/PixelKnot) - image steganography for Android.
+- F5 algorithm for steganography (in JPEG) - [CSharp](https://github.com/username1565/f5-steganography), [JavaScript](https://github.com/username1565/js-jpeg-steg) ([Demo](https://username1565.github.io/js-jpeg-steg/))
 - [Nanoboard](https://github.com/username1565/nanoboard) ([mirror](https://github.com/nanoboard/nanoboard/releases))
 - [DesuDesuTalk](https://github.com/desudesutalk/desudesutalk)
 
