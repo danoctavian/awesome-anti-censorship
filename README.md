@@ -86,6 +86,7 @@ allow to exclude censorship, in the decentralized systems if DHT is saved and sy
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
 - [DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) - Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors.
+- [Telex (anti-censorship_system)](https://en.wikipedia.org/wiki/Telex_(anti-censorship_system)) - Telex complements services like Tor (anonymity network) by placing Telex stations in the network infrastructure of free countries. A client can create a TLS tunnel that is indistinguishable from allowed traffic. That way, firewalls in censored countries are neither able to detect nor to block access to specific parts of the Internet, assuming they allow access at all.
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
