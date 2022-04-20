@@ -71,7 +71,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) , [ru wikipedia](https://ru.wikipedia.org/wiki/IRC) , public irc-server: https://webchat.freenode.net/
 - [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) - Distributed Hash Table, like this: `{"MessageHash":"PreviousMessageHashAndMessageText"}`,
 allow to exclude censorship, in the decentralized systems if DHT is saved and synchronized there. Example - [nanoboard](https://github.com/username1565/nanoboard/issues/17#issuecomment-1064685345)
-- [Mesh networks](https://en.wikipedia.org/wiki/Mesh_networking) allow to connect to the Internet from decentralized network, even if at least one node is connected there.
+- [Mesh networks](https://en.wikipedia.org/wiki/Mesh_networking) allow to connect to the Internet from decentralized network, even if at least one node is connected there. [Briar](https://ru.wikipedia.org/wiki/Briar)
+- [Jami](https://en.wikipedia.org/wiki/Jami_(software)) - a SIP-compatible distributed peer-to-peer softphone and SIP-based instant messenger
 - [Two-way Internet](https://en.wikipedia.org/wiki/Satellite_constellation#Two-way_communication), like [StarLink](https://en.wikipedia.org/wiki/Starlink) - allow to connect to the Internet, throught satellites, even if Internet-connection is banned in the country.
 
 ### Firewall analysis
