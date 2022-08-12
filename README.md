@@ -67,6 +67,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [AKASHA](https://akasha.world/) - next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
+- [tox protocol](https://ru.wikipedia.org/wiki/Tox), [tox clients](https://wiki.tox.chat/clients)
+- [kevacoin](https://github.com/kevacoin-project) - [blogs on blockchain](https://kevacoin-project.github.io/keva_ws/)
+- [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) , [ru wikipedia](https://ru.wikipedia.org/wiki/IRC) , public irc-server: https://webchat.freenode.net/
+- [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) - Distributed Hash Table, like this: `{"MessageHash":"PreviousMessageHashAndMessageText"}`,
+allow to exclude censorship, in the decentralized systems if DHT is saved and synchronized there. Example - [nanoboard](https://github.com/username1565/nanoboard/issues/17#issuecomment-1064685345)
+- [Mesh networks](https://en.wikipedia.org/wiki/Mesh_networking) allow to connect to the Internet from decentralized network, even if at least one node is connected there. [Briar](https://ru.wikipedia.org/wiki/Briar)
+- [Jami](https://en.wikipedia.org/wiki/Jami_(software)) - a SIP-compatible distributed peer-to-peer softphone and SIP-based instant messenger
+- [Two-way Internet](https://en.wikipedia.org/wiki/Satellite_constellation#Two-way_communication), like [StarLink](https://en.wikipedia.org/wiki/Starlink) - allow to connect to the Internet, throught satellites, even if Internet-connection is banned in the country.
 
 ### Firewall analysis
 - [ooni-probe](https://github.com/ooni/probe) - OONI Probe network measurement tool for detecting internet censorship https://ooni.io
@@ -79,11 +87,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
 - [DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) - Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors.
+- [Telex (anti-censorship_system)](https://en.wikipedia.org/wiki/Telex_(anti-censorship_system)) - Telex complements services like Tor (anonymity network) by placing Telex stations in the network infrastructure of free countries. A client can create a TLS tunnel that is indistinguishable from allowed traffic. That way, firewalls in censored countries are neither able to detect nor to block access to specific parts of the Internet, assuming they allow access at all.
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
 - [Real Steganography with TrueCrypt](http://keyj.emphy.de/real-steganography-with-truecrypt/) (applies to VeraCrypt as well) - hiding containers inside MP4 video files.
 - [PixelKnot](https://github.com/guardianproject/PixelKnot) - image steganography for Android.
+- F5 algorithm for steganography (in JPEG) - [CSharp](https://github.com/username1565/f5-steganography), [JavaScript](https://github.com/username1565/js-jpeg-steg) ([Demo](https://username1565.github.io/js-jpeg-steg/))
+- [Nanoboard](https://github.com/username1565/nanoboard) ([mirror](https://github.com/nanoboard/nanoboard/releases))
+- [DesuDesuTalk](https://github.com/desudesutalk/desudesutalk)
 
 ### Misc 
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
