@@ -60,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
+- [Polybase](https://github.com/polybase) - A database that understands tokens, wallets & ZK. An open-source decentralized alternative to Firebase. ([docs](https://github.com/polybase/docs))
 - [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat))
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network
 - [sovereign](https://github.com/DemocracyEarth/sovereign) - Censorship resistant democracies.
