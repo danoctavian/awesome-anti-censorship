@@ -5,6 +5,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Categories
+- [Censorship bypass tools](#censorship-bypass-tools)
 - [Privacy and anonymity](#privacy-and-anonymity)
 - [Network tunnels](#network-tunnels)
 - [Firewall analysis](#firewall-analysis)
@@ -14,6 +15,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Misc](#misc)
 - [Related awesome lists](#related-awesome-lists)
 - [Articles and research papers](#articles-and-research-papers)
+
+### Censorship bypass tools
+- [Zerodrop](https://dangerous.link/about) - Open-source stealth URL toolkit optimized for bypassing censorship filters.
 
 ### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
