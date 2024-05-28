@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
 - [i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+- [hidden lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) - Hidden Lake is a decentralized anonymous F2F (Friend-to-Friend) network with theoretical provability based on queues (QB task).
 - [vuvuzela](https://github.com/vuvuzela/vuvuzela) - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries. 
 - [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.  
 
