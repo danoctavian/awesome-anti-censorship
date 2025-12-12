@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Dust](https://github.com/blanu/Dust) - A Polymorphic Engine for Filtering-Resistant Transport Protocols
 - [marionette](https://github.com/kpdyer/marionette/) - Marionette is a programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.
 - [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) Tunneling Internet traffic over FB chat.
+- [vk-proxy](https://github.com/srgykuz/vk-proxy) - proxy traffic over VK (Russian social media). Can be used to bypass CIDR restrictions.
 - [chnroutes](https://github.com/fivesheep/chnroutes)- modifies the route table to route only censored ips through vpn
 - [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
 - [iodine](https://github.com/yarrick/iodine) - This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.
