@@ -95,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
 - [OnionShare](https://onionshare.org/) - tool that lets you securely and anonymously share a file of any size (over TOR).
+- [Voidly CLI](https://www.npmjs.com/package/@voidly/cli) - command-line tool for querying global censorship data. Backed by 19.6M live measurements across 119 countries (OONI, IODA, CensoredPlanet aggregated). Check if a domain is blocked from a country: `npx @voidly/cli check <domain> <country>`.
 
 ### Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
