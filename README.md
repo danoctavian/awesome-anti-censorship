@@ -62,7 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor’s traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 - [go-packetflagon](https://github.com/BrassHornCommunications/go-packetflagon/) - A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.
 - [Firezone](https://www.firezone.dev/) - Self-hosted VPN server using WireGuard. Supports MFA, SSO, and has easy deployment options.
-
+- [BibaVPN](https://github.com/Eljaja/BibaVPN) - Experimental self-hosted SOCKS5/HTTP CONNECT tunnel over TLS+WebSocket with traffic shaping, padding, jitter, decoys, HTTP camouflage, and Android/Desktop clients.
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
 - [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat))
