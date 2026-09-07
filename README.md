@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
 - [i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+- [hidden lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) - Hidden Lake is a decentralized anonymous F2F (Friend-to-Friend) network with theoretical provability based on queues (QB task).
 - [vuvuzela](https://github.com/vuvuzela/vuvuzela) - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries. 
 - [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
 - [tails](https://tails.net) - Tails is a portable operating system that protects against surveillance and censorship.
@@ -59,10 +60,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [infranet](http://sourceforge.net/projects/infranet/) - Infranet is a system that attempts to circumvent web censorship by allowing clients to surreptitiously request sensitive content via cooperating Web servers distributed across the global Internet.
 - [fwlite](https://github.com/v3aqb/fwlite) - A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)
 - [code-talker-tunnel](https://crysp.uwaterloo.ca/software/CodeTalkerTunnel.html) - Code Talker Tunnel (previously called SkypeMorph) is a protocol camouflaging tool, designed to reshape traffic output of any censorship circumvention tool to look like Skype video calls
-- [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor’s traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
+- [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor's traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 - [go-packetflagon](https://github.com/BrassHornCommunications/go-packetflagon/) - A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.
 - [Firezone](https://www.firezone.dev/) - Self-hosted VPN server using WireGuard. Supports MFA, SSO, and has easy deployment options.
 - [BibaVPN](https://github.com/Eljaja/BibaVPN) - Experimental self-hosted SOCKS5/HTTP CONNECT tunnel over TLS+WebSocket with traffic shaping, padding, jitter, decoys, HTTP camouflage, and Android/Desktop clients.
+- [Stunning](https://github.com/hbahadorzadeh/stunning) - Multi-protocol tunneling engine with composable anti-DPI plugin chains (TLS/HTTP mimicry, padding, traffic morphing) and access-control gates, written in Go.
+- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.
+
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
 - [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat))
@@ -85,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
 - [DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) - Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors.
+- [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global censorship analytics aggregating 19.6M live OONI samples, 1.6M historical records, IODA outage alerts, and CensoredPlanet probes across 119+ countries. Surfaces 5,356 citable incidents (DNS poisoning, TCP-resets, blockpages, BGP outages), an ML-driven shutdown early-warning model, and free REST/MCP APIs for researchers and tool developers (CC BY 4.0).
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
