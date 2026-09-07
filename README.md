@@ -63,6 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [stegotorus](https://sri-csl.github.io/stegotorus/) - StegoTorus, a tool that comprehensively disguises Tor from protocol analysis. To foil analysis of packet contents, Tor's traffic is steganographed to resemble an innocuous cover protocol, such as HTTP.
 - [go-packetflagon](https://github.com/BrassHornCommunications/go-packetflagon/) - A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.
 - [Firezone](https://www.firezone.dev/) - Self-hosted VPN server using WireGuard. Supports MFA, SSO, and has easy deployment options.
+- [Stunning](https://github.com/hbahadorzadeh/stunning) - Multi-protocol tunneling engine with composable anti-DPI plugin chains (TLS/HTTP mimicry, padding, traffic morphing) and access-control gates, written in Go.
 - [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.
 
 ### Decentralized systems
