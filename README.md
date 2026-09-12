@@ -100,7 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [cachebrowser](https://github.com/CacheBrowser/cachebrowser) - CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference. 
 - [rubberhose](https://github.com/sporkexec/rubberhose) - Julian Assange's deniable-encryption filesystem.
 - [OnionShare](https://onionshare.org/) - tool that lets you securely and anonymously share a file of any size (over TOR).
-- [The Mandating Honeypots Project](https://github.com/Tori-Tech/Mandating-Honeypots-Project) - An research project with a Python PoC that shows how Linux D-Bus age verification can be spoofed.
+- [The Mandating Honeypots Project](https://github.com/Tori-Tech/Mandating-Honeypots-Project) - A research project with a Python PoC that shows how Linux D-Bus age verification can be spoofed.
 
 ### Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
