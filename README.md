@@ -66,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Hedioum Pool Tunnel](https://github.com/hedioum/Hedioum-Pool-Tunnel) - A high-performance anti-DPI tunnel in Go that disguises VLESS/Trojan traffic as SSH, TLS/HTTPS, SMTP/IMAP or a DirectAdmin panel, with dynamic connection pools and real Let's Encrypt certificates.
 - [Stunning](https://github.com/hbahadorzadeh/stunning) - Multi-protocol tunneling engine with composable anti-DPI plugin chains (TLS/HTTP mimicry, padding, traffic morphing) and access-control gates, written in Go.
 - [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.
+- [awg-config-gen](https://github.com/Yuix-Networks/awg-config-gen) - Generates and audits AmneziaWG configs. Checks the obfuscation parameters against the upstream rules, including the ones AmneziaWG accepts silently: `S1 + 56 == S2` makes the handshake initiation and response the same size on the wire, and an `H` value of 1-4 leaves that message looking like plain WireGuard. The `check` command works on any existing config, not just ones it generated.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
