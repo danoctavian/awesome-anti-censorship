@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [AKASHA](https://akasha.world/) - next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
+- [MeshLive](https://github.com/MeshLive/meshlive-android) - Beta Android app for encrypted voice/video calls and live audio/video broadcasts over a Bluetooth mesh, enabling nearby communication during internet shutdowns without accounts or central servers (GPL-3.0-or-later).
 - [Disroot](https://disroot.org/) - Disroot is a platform providing online services based on principles of freedom, privacy, federation and decentralization.
 
 ### Firewall analysis
