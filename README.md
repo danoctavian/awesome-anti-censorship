@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Censorship bypass tools
 - [Zerodrop](https://dangerous.link/about) - Open-source stealth URL toolkit optimized for bypassing censorship filters.
+- [Kite DPI](https://github.com/bkrdmrcioglu/Kite) - Open-source DPI/SNI bypass tool that runs entirely on-device (no VPN server) for macOS, Windows and iOS.
 
 ### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
