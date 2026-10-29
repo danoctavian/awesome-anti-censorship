@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Censorship bypass tools
 - [Zerodrop](https://dangerous.link/about) - Open-source stealth URL toolkit optimized for bypassing censorship filters.
+- [Zephyron](https://github.com/NineUPFLOW/Zephyron) - Windows app that routes traffic per service between Zapret/winws2 desync, a sing-box tunnel, or direct, so a DPI-bypass engine and a VPN can run at the same time instead of breaking each other. MIT.
 
 ### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
