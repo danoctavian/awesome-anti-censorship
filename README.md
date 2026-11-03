@@ -90,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) - Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors.
 - [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global censorship analytics aggregating 19.6M live OONI samples, 1.6M historical records, IODA outage alerts, and CensoredPlanet probes across 119+ countries. Surfaces 5,356 citable incidents (DNS poisoning, TCP-resets, blockpages, BGP outages), an ML-driven shutdown early-warning model, and free REST/MCP APIs for researchers and tool developers (CC BY 4.0).
+- [China hot-list watch](https://ownly-network.github.io/china-news-feed-samples/) - Hourly page and JSON of topics that left the Weibo, Baidu, Zhihu, Toutiao and Bilibili hot-search lists early while still trending and stayed gone, with rank history and the reason for each label. Logged-out view from outside mainland China; a flag is a lead, not proof. Free weekly sample on [Hugging Face](https://huggingface.co/datasets/ownly-network/china-news-feed-sample) (CC BY 4.0).
 
 ### Steganography
 - [DissidentX](https://github.com/bramcohen/DissidentX) - DissidentX is encoding messages in files on the web.
