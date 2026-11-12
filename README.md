@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [Articles and research papers](#articles-and-research-papers)
 
 ### Censorship bypass tools
+- [V2Mac](https://github.com/v2macapp/v2mac) - Open-source native macOS client for Xray-core: VLESS/REALITY, VMess, Trojan, Shadowsocks and Hysteria2 subscriptions, routing rules and TUN mode.
 - [Zerodrop](https://dangerous.link/about) - Open-source stealth URL toolkit optimized for bypassing censorship filters.
 
 ### Privacy and anonymity
