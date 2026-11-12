@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 - [vuvuzela](https://github.com/vuvuzela/vuvuzela) - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries. 
 - [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
 - [tails](https://tails.net) - Tails is a portable operating system that protects against surveillance and censorship.
+- [NoLeaker](https://github.com/v2macapp/noleaker) - Chrome and Firefox extension that sends the browser through a SOCKS5 proxy or VPN and stops it from leaking around it: blocks WebRTC, DNS and QUIC leaks, matches timezone, language and geolocation to the exit, with a kill switch and built-in leak test.
 
 ### Network tunnels
 - [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
