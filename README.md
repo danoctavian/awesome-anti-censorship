@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Censorship bypass tools
 - [Zerodrop](https://dangerous.link/about) - Open-source stealth URL toolkit optimized for bypassing censorship filters.
+- [HotaruNet](https://github.com/OneForAllHub/HotaruNet) - Open-source (GPL-3.0), zero-config Android and Windows anti-censorship client featuring real download throughput probing and automatic failover across VLESS REALITY, Cloudflare WARP, Hysteria 2, XHTTP, and WebSocket+TLS.
 
 ### Privacy and anonymity
 - [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
