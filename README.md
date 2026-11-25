@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Network tunnels
 - [shadowsocks](https://github.com/shadowsocks) - a fast socks5 proxy that encrypts traffic
 - [v2ray](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions
+- [still-ui](https://github.com/Dv2Corn/still-ui) - A self-hosted Xray web panel (continuation of 3x-ui): VLESS REALITY, Hysteria2 with port hopping, AmneziaWG, encrypted backups and reachability probes from censored networks
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) - Tor framework for implementing pluggable transports (anti-censorship network tunnels)
 - [obfsproxy with OpenVPN](https://community.openvpn.net/openvpn/wiki/TrafficObfuscation) - OpenVPN traffic obfuscation using obfsproxy 
 - [flashproxy](https://crypto.stanford.edu/flashproxy/) -  miniature proxy that runs in a web browser, and reflects traffic to a Tor relay.
